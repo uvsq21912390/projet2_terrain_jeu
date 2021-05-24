@@ -5,7 +5,7 @@
 #Ilian Rondey
 #Killian Le Bonhomme 
 #Halima Cherif 
-#https://github.com/uvsq21912390/projet2_terrain_jeu/edit/main/projet%20final.py
+#https://github.com/uvsq21912390/projet2_terrain_jeu
 #### LES BIBLIOTHEQUES ####
 
 import tkinter as tk
