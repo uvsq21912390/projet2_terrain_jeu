@@ -1,4 +1,6 @@
 #projet 2 uvsq L1
+
+
 projet2_terrain_jeu
 Notre programme est un générateur de terrain de jeu de video.L’objectif de ce projet est de générer des terrains aléatoires à partir d’un automate cellulaire ayant des paramètres qui peuvent être choisis en fonction du type de terrain recherché.
 
